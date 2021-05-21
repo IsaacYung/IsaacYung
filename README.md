@@ -31,7 +31,7 @@
 <p align="left">
   
 <h3 align="left">
-  Social media :love_letter:
+  Social media
 </h3>
 
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/isaac-yung)
