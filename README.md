@@ -19,7 +19,7 @@
   
   <details>
    <summary>:sparkles: Github Stats</summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=IsaacYungs&theme=default" >
+   <img src="https://github-readme-stats.vercel.app/api?username=IsaacYung&theme=default" >
   </details>
 
   <details>
