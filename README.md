@@ -21,13 +21,11 @@
   
   <details>
    <summary>:sparkles: Github Stats</summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=IsaacYung&theme=default" >
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaacYung&show_icons=true&theme=react&include_all_commits=true&count_private=true">
   </details>
 
   <details>
     <summary>:sparkles: Languages Used</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacYung&hide=html&layout=compact">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacYung&layout=compact&langs_count=16&theme=react">
   </details>
 <p align="left">
