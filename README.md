@@ -5,7 +5,7 @@
 </h3>
 
 <p align="left">
-  Currently working with backend development at PagSeguro PagBank, using Kotlin, Java and Ruby
+  Currently working with backend development at Natixis Corporate & Investment Banking, using Java and React
 
   I'm from São Paulo/Brazil
 
